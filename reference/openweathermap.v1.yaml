@@ -203,7 +203,7 @@ paths:
 components:
   schemas:
     unauthorized_response:
-      title: 401
+      title: '401'
       type: object
       properties:
         cod:
